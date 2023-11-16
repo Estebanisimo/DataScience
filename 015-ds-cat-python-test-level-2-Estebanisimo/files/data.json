@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Alice",
+        "age": "30",
+        "weight": "65",
+        "height": "170"
+    },
+    {
+        "name": "Bob",
+        "age": "25",
+        "weight": "70",
+        "height": "175"
+    },
+    {
+        "name": "Charlie",
+        "age": "35",
+        "weight": "80",
+        "height": "180"
+    },
+    {
+        "name": "David",
+        "age": "40",
+        "weight": "75",
+        "height": "178"
+    },
+    {
+        "name": "Eve",
+        "age": "20",
+        "weight": "60",
+        "height": "160"
+    },
+    {
+        "name": "Mallory",
+        "age": "45",
+        "weight": "90",
+        "height": "185"
+    },
+    {
+        "name": "Oscar",
+        "age": "50",
+        "weight": "95",
+        "height": "190"
+    },
+    {
+        "name": "Peggy",
+        "age": "55",
+        "weight": "55",
+        "height": "150"
+    },
+    {
+        "name": "Trent",
+        "age": "60",
+        "weight": "90",
+        "height": "178"
+    },
+    {
+        "name": "Victor",
+        "age": "65",
+        "weight": "70",
+        "height": "169"
+    },
+    {
+        "name": "Walter",
+        "age": "70",
+        "weight": "88",
+        "height": "180"
+    }
+]
